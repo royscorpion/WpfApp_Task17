@@ -52,8 +52,8 @@
                    Height="100"
                    Grid.Column="1"
                    Grid.RowSpan="3"
-                   Stroke="Black"
-                   StrokeThickness="2">
+                   Stroke="Gray"
+                   StrokeThickness="1">
             <Rectangle.Fill>
                 <SolidColorBrush Color="{Binding ElementName=colorIndicator,Path=Color}"></SolidColorBrush>
             </Rectangle.Fill>
